@@ -2,7 +2,7 @@
 - 👀 I’m interested in Designing and Coding
 - 🌱 I’m currently learning HTML-CSS, UI Design and exploring a few more skills
 
-
+<br><br>
 <h1 align="center"> Reach Me Out
   <h1 align="center">
   <a href="">Discord</a>
