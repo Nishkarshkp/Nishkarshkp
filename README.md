@@ -3,10 +3,9 @@
 - 🌱 I’m currently learning HTML-CSS, UI Design and exploring a few more skills
 
 
-## <h1 align="center"> Reach Me Out
+<h1 align="center"> Reach Me Out
   <h1 align="center">
   <img src="https://drive.google.com/drive/u/0/folders/1V_MqfC-vKuw7UUHfhBIgk-7gzOvdVy1x/>
-</p>
                                                                                                     
 <!---
 Nishkarshkp/Nishkarshkp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
