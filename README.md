@@ -5,7 +5,7 @@
 <br><br>
 <h1 align="center"> Reach Me Out
   <h1 align="center">
-  <img width=15% src="https://user-images.githubusercontent.com/93878984/145679929-b3415afd-a39a-4053-8d6f-4bcadfc33a22.png"/>
+  <a href="https://discord.com/channels/@me/880416363192123442"><img width=15% src="https://user-images.githubusercontent.com/93878984/145679929-b3415afd-a39a-4053-8d6f-4bcadfc33a22.png"/></a>
                                                                                                     
 <!---
 Nishkarshkp/Nishkarshkp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
