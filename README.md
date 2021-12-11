@@ -5,6 +5,7 @@
 
 <h1 align="center"> Reach Me Out
   <h1 align="center">
+  <a href="">Discord</a>
   <img src="https://drive.google.com/drive/u/0/folders/1V_MqfC-vKuw7UUHfhBIgk-7gzOvdVy1x/>
                                                                                                     
 <!---
